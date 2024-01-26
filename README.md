@@ -1,7 +1,7 @@
 [![MasterHead]()](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Adam Elmadani</h1>
 <h3 align="center">A passionate backend software engineer</h3>
-(img align="right" alt="Coding" width="400" src="")
+(img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/beautiful-office-space-cartoon-style_23-2151043334.jpg?t=st=1706280321~exp=1706283921~hmac=dcd988fec52d2f9bdccf9f2ef9c53077b85b837e295ed113a1e707f93ca10ba5&w=740")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adameelmadani&label=Profile%20views&color=0e75b6&style=flat" alt="adameelmadani" /> </p>
 
