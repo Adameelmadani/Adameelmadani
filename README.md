@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/R.acdd7915cd13fb2622481d2555f31498?rik=ynHqQBlEyfEKFQ&pid=ImgRaw&r=0)
+![MasterHead](https://github.com/Adameelmadani/Adameelmadani/blob/main/software%20engineer%20png.png?raw=true)
 <h1 align="center">Hi 👋, I'm Adam Elmadani</h1>
 <h3 align="center">A passionate backend software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/f1647c095b309fa390a977882c013543/tenor.gif?itemid=14625441">
