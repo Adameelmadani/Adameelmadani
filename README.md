@@ -7,8 +7,8 @@
 
 - 💻 I’m currently **an Alx student**
 - 📘 I'm currently **an ENSAM Meknes student**
-- 🎨 I'm a **poster design**: Check <a href="https://www.instagram.com/k_otaku_ensam" target="blank">Instagram account 2023/2024</a>
-- 🎮 I'm a **2d game developer**
+- 🎨 I'm a **Poster Designer**: Check <a href="https://www.instagram.com/k_otaku_ensam" target="blank">Instagram account 2023/2024</a>
+- 🎮 I'm a **2D Game Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
