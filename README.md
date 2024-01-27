@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adam Elmadani</h1>
 <h3 align="center">A passionate backend software engineer from Morocco <img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg" alt="nuux_tv" /></h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/f1647c095b309fa390a977882c013543/tenor.gif?itemid=14625441">
+<img align="right" alt="Coding" width="300" src="https://media1.tenor.com/images/f1647c095b309fa390a977882c013543/tenor.gif?itemid=14625441">
 
 
 - 💻 I’m currently **an Alx student**
