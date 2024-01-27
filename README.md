@@ -1,13 +1,13 @@
 ![MasterHead](https://github.com/Adameelmadani/Adameelmadani/blob/main/software%20engineer%20png.png?raw=true)
 <h1 align="center">Hi 👋, I'm Adam Elmadani</h1>
-<h3 align="center">A passionate backend software engineer</h3>
+<h3 align="center">A passionate backend software engineer from Morocco</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/f1647c095b309fa390a977882c013543/tenor.gif?itemid=14625441">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adameelmadani&label=Profile%20views&color=0e75b6&style=flat" alt="adameelmadani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adamelmadani_" target="blank"><img src="https://img.shields.io/twitter/follow/adamelmadani_?logo=twitter&style=for-the-badge" alt="adamelmadani_" /></a> </p>
-
-- 🌱 I’m currently **an alx student**
+- 💻 I’m currently **an Alx student**
+- 📘 I'm currently **an ENSAM Meknes student**
+- 🎨 I'm a **poster design**: Check <a href="https://www.instagram.com/k_otaku_ensam" target="blank">Instagram account 2023/2024</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
