@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adamelmadani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adamelmadani_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adam-elmadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-elmadani" height="30" width="40" /></a>
-<a href="https://fb.com/adam.elmadani.927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adam.elmadani.927" height="30" width="40" /></a>
+<a href="https://twitter.com/adamelmadani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adamelmadani_" height="30" width="40" /></a>
 <a href="https://instagram.com/adam.eelmadani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adameelmadani" height="30" width="40" /></a>
+<a href="https://fb.com/adam.elmadani.927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adam.elmadani.927" height="30" width="40" /></a>
 <a href="https://discord.gg/3420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3420" height="30" width="40" /></a>
 </p>
 
