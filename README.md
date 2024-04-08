@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/Adameelmadani/Adameelmadani/blob/main/software%20engineer%20png.png?raw=true)
 <h1 align="center">Hi 👋, I'm Adam Elmadani</h1>
 <h3 align="center">A passionate Backend Software Engineer from Morocco <img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg" alt="nuux_tv" /></h3>
 
