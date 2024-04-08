@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adam Elmadani</h1>
 <h3 align="center">A passionate Backend Software Engineer from Morocco <img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg" alt="nuux_tv" /></h3>
 
-- 💻 I attained certification in the **ALX Full Stack Software Engineering** Program, with a specialization in **Backend Development**.
-- 📘 I'm currently **an ENSAM Meknes student**
-- 🎨 I'm a **Poster Designer**: Check <a href="https://www.instagram.com/k_otaku_ensam" target="blank">Instagram account 2023/2024</a>
-- 🎮 I'm a **2D Game Developer**
+- 💻 I've obtained certification from the **ALX Full Stack Software Engineering** Program, specializing in **Backend Development**.
+- 📘 Currently, I am a student at **ENSAM Meknes**.
+- 🎨 You can check out some of my **poster designs** on this <a href="https://www.instagram.com/k_otaku_ensam" target="blank">Instagram account 2023/2024</a>.
+- 🎮 I'm also involved in **2D game development**.
+
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
