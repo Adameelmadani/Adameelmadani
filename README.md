@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Elmadani</h1>
+<h1 align="center">Hi 👋, I'm Adam El Madani</h1>
 <h3 align="center">A passionate Backend Software Engineer from Morocco <img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg" alt="nuux_tv" /></h3>
 
 - 💻 I've obtained certification from the **ALX Full Stack Software Engineering** Program, specializing in **Backend Development**.
