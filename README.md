@@ -4,7 +4,6 @@
 - 💻 I've obtained certification from the **ALX Full Stack Software Engineering** Program, specializing in **Backend Development**.
 - 📘 Currently, I am a student at **ENSAM Meknes**.
 - 🎨 You can check out some of my **poster designs** on this <a href="https://www.instagram.com/k_otaku_ensam" target="blank">Instagram account 2023/2024</a> (Not all of them are mine).
-- 🎮 I'm also involved in **2D game development**.
 
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
