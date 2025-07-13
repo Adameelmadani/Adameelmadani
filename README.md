@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adam El Madani</h1>
-<h3 align="center">A passionate Backend Software Engineer from Morocco <img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg" alt="nuux_tv" /></h3>
+<h3 align="center">A passionate AI-DS and Full Stack Engineer from Morocco<img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg" alt="nuux_tv" /></h3>
 
+- 🧠 **AI & DS** student at **ENSAM Meknes**.
 - 💻 **ALX Full Stack Software Engineering** Graduate, specializing in **Backend Development**.
-- 📘 AI student at **ENSAM Meknes**.
 - 🎨 Check out some of my **poster designs** on this <a href="https://www.instagram.com/k_otaku_ensam" target="blank">Instagram account 2023/2024</a> and this <a href="https://www.instagram.com/gadz.it" target="blank">Instagram account 2024/2025</a> (Not all of them are mine).
 
 <h1></h1>
