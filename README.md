@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam El Madani</h1>
-<h3 align="center">A passionate AI-DS and Full Stack Engineer from Morocco<img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg" alt="nuux_tv" /></h3>
+<h3 align="center">A passionate AI-DS and Full Stack Engineer from Morocco <img width="20" src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ma.svg" alt="nuux_tv" /></h3>
 
 - 🧠 **AI & DS** student at **ENSAM Meknes**.
 - 💻 **ALX Full Stack Software Engineering** Graduate, specializing in **Backend Development**.
